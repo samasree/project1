@@ -3,8 +3,8 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>org.sree.sama</groupId>
   <artifactId>project1</artifactId>
-  <packaging>jar</packaging>
-  <version>1.0-SNAPSHOT</version>
+  <packaging>war</packaging>
+  <version>1</version>
   <name>project1</name>
   <url>http://maven.apache.org</url>
   <dependencies>
